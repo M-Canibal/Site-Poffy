@@ -1,5 +1,7 @@
 # Site-Poffy
 
+![fot](https://user-images.githubusercontent.com/66100778/89739773-c3320080-da59-11ea-9297-b4c9bd6dcb9e.png)
+
 
 📋 Índice
  - Sobre
@@ -20,4 +22,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - NunJucks
 - SQlite
 
- 
+ Desenvolvido por: Matheus Canibal
