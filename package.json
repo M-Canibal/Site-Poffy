@@ -1,0 +1,28 @@
+{
+  "name": "NLW2_DISCOVERY",
+  "version": "1.0.0",
+  "description": "A project build using HTML, CSS and JS to develop a website where people can find on-line teachers or maybe be a teacher at the website. This course was developed by RocketSeat in the second Next Level Week.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoMatsunaga/NLW2_DISCOVERY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoMatsunaga/NLW2_DISCOVERY/issues"
+  },
+  "homepage": "https://github.com/GustavoMatsunaga/NLW2_DISCOVERY#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2",
+    "sqlite-async": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
