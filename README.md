@@ -22,4 +22,5 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - NunJucks
 - SQlite
 
- Desenvolvido por: Matheus Canibal
+Redigido por: Matheus Canibal
+Desenvolvido por: @Rocketseat
